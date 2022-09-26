@@ -1,6 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Hi%20there%20!&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=30)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunkxx&show_icons=true&theme=light)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunkxx&layout=compact)](https://github.com/jieunkxx/github-readme-stats)
+
 
 <!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=I'm%20Jieun&fontSize=50&fontColor=ffffff)
 **jieunkxx/jieunkxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 -->
