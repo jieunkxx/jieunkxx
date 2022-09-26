@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Hi%20there%20!&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=30)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunkxx&show_icons=true&theme=light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunkxx&show_icons=true&theme=light&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunkxx&layout=compact)](https://github.com/jieunkxx/github-readme-stats)
 
